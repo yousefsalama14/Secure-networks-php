@@ -34,19 +34,19 @@
                                             Compliance</a></li>
                                     <li><a class="dropdown-item" href="ENTERPRISE INCIDENT MANAGEMENT.php">Enterprise incident
                                             management</a></li>
-                                    <li><a class="dropdown-item" href="#">Threat and Vulnerability
+                                    <li><a class="dropdown-item" href="ADVANCED THREAT AND VULNERABILITY MANAGEMENT">Threat and Vulnerability
                                             Management</a></li>
                                     <li><a class="dropdown-item" href="DISASTER RECOVERY MANAGEMENT.php">Disaster recovery
                                             management</a></li>
                                     <li><a class="dropdown-item" href="SECURITY MANAGED SERVICES.php">Security Managed
                                             Services</a></li>
-                                    <li><a class="dropdown-item" href="#">Public Key
+                                    <li><a class="dropdown-item" href="PUBLIC KEY INFRASTRUCTURE">Public Key
                                             Infrastructure</a></li>
-                                    <li><a class="dropdown-item" href="#">Education and
+                                    <li><a class="dropdown-item" href="EDUCATION AND AWARENESS">Education and
                                             Awareness</a></li>
-                                    <li><a class="dropdown-item" href="#">Architecture and
+                                    <li><a class="dropdown-item" href="SECURITY ARCHITECTURE AND IMPLEMENTATION">Architecture and
                                             Implementation</a></li>
-                                    <li><a class="dropdown-item" href="#">Compromise Assessment</a>
+                                    <li><a class="dropdown-item" href="COMPROMISE ASSESSMENT">Compromise Assessment</a>
                                     </li>
                                 </ul>
                             </div>
